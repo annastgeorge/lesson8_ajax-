@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Anna St George
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment made a "Seminole Movie Connection" website that is connected to an Internet Movie Database, allowing us to search movies and retrieve their description.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://annastgeorge.github.io/lesson8_ajax-/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. One concept I learned was an IMDb and how to use them 
+2. One concept I learned was how to use AJAX while coding
+3. One concept I learned is how to build an application using an API
